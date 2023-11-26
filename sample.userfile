@@ -1,0 +1,5 @@
+user	example
+mask	*!*@*.example.com
+chan	*
+opt	p0u100
+pass	___absolutely_do_not_use_this_file___
